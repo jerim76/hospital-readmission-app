@@ -1,10 +1,4 @@
-# hospital-readmission-app
-Streamlit app for predicting hospital readmission
-# Hospital Readmission Prediction App
 
-![App Screenshot](app-screenshot.png)
-
-This Streamlit application predicts 30-day hospital readmission risk using machine learning.
 
 ## Features
 - Patient risk assessment
